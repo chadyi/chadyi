@@ -1,3 +1,1 @@
-# chadyi
-
-Student developer 
+To be update.
